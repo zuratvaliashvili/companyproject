@@ -1,1 +1,2 @@
 App configuration v1
+Added API endpoint info
