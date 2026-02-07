@@ -1,2 +1,3 @@
 App configuration v1
 Added API endpoint info
+MAIN: config changed differently
